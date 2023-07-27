@@ -18,7 +18,7 @@ const SaleProperties = () => {
             <div className="py-6 px-4">
               <h3 className="text-lg font-medium text-gray-900">123 Main St</h3>
               <p className="text-sm text-gray-500">3 bd | 2 ba | 1,500 sqft</p>
-              <p class="text-lg font-bold text-gray-700 mt-4"><del>$500,000</del> On Sale Now: $250,000</p>
+              <p class="text-lg font-bold text-gray-700 mt-4"><del>&#8377; 500,000</del> On Sale Now: &#8377; 250,000</p>
               <button className="mt-6 px-4 py-2 bg-amber-800 text-white rounded-md hover:bg-amber-700">
                 View Details
               </button>
@@ -31,7 +31,7 @@ const SaleProperties = () => {
             <div className="py-6 px-4">
               <h3 className="text-lg font-medium text-gray-900">456 Oak St</h3>
               <p className="text-sm text-gray-500">4 bd | 3 ba | 2,000 sqft</p>
-              <p class="text-lg font-bold text-gray-700 mt-4"><del>$750,000</del> On Sale Now: $500,000</p>
+              <p class="text-lg font-bold text-gray-700 mt-4"><del>&#8377; 750,000</del> On Sale Now: &#8377; 500,000</p>
               <button className="mt-6 px-4 py-2 bg-amber-800 text-white rounded-md hover:bg-amber-700">
                 View Details
               </button>
@@ -44,7 +44,7 @@ const SaleProperties = () => {
             <div className="py-6 px-4">
               <h3 className="text-lg font-medium text-gray-900">789 Maple Ave</h3>
               <p className="text-sm text-gray-500">2 bd | 1 ba | 1,000 sqft</p>
-              <p class="text-lg font-bold text-gray-700 mt-4"><del>$300,000</del> On Sale Now: $200,000</p>
+              <p class="text-lg font-bold text-gray-700 mt-4"><del>&#8377; 300,000</del> On Sale Now: &#8377; 200,000</p>
               <button className="mt-6 px-4 py-2 bg-amber-800 text-white rounded-md hover:bg-amber-700">
                 View Details
               </button>

@@ -25,7 +25,7 @@ const OurClients = () => {
           <p className="text-lg text-gray-700 mb-4">
             "Working with this real estate agency was a great experience. Their team was knowledgeable and professional, and helped us find our dream home quickly and easily."
           </p>
-          <p className="text-gray-500">Adam Johnson, Homebuyer</p>
+          <p className="text-gray-500">Mohan Aggrawal, Homebuyer</p>
         </div>
       </div>
       <div className="justify-center">
@@ -38,7 +38,7 @@ const OurClients = () => {
         <p className="text-lg text-gray-700 mb-4">
           "I was impressed with this agency's marketing strategy when we were selling our home. They really went above and beyond to showcase my home and attract potential buyers."
         </p>
-        <p className="text-gray-500">Michael Smith, Home Seller</p>
+        <p className="text-gray-500">Ayush Chhabra, Home Seller</p>
       </div>
     </div>
     <div className="justify-center">
@@ -51,7 +51,7 @@ const OurClients = () => {
       <p className="text-lg text-gray-700 mb-4">
         "I've been working with this agency for several years now for property management services, and they've been fantastic. They handle everything really well."
       </p>
-      <p className="text-gray-500">David Brown, Property Owner</p>
+      <p className="text-gray-500">Vishal Singh, Property Owner</p>
     </div>
   </div>
   </div>
