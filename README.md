@@ -4,7 +4,7 @@
 
 ## Description
 
-My real estate web app is a modern and fully responsive platform developed using React JS and Tailwind CSS. The app is designed to provide visitors with an immersive and user-friendly experience on all mobile devices. The app includes eight pages that cover all the important aspects of the real estate business.
+DreamHomeHube web app is a modern and fully responsive platform developed using React JS and Tailwind CSS. The app is designed to provide visitors with an immersive and user-friendly experience on all mobile devices. The app includes eight pages that cover all the important aspects of the real estate business.
 
 The Home page provides visitors with a brief overview of your business and its offerings, while the About Us page details the background and mission of your real estate business.
 
