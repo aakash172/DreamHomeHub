@@ -1,4 +1,4 @@
-# TripConnect - MERN Stack + Vite
+# DreamHomeHub - ReactJS
 
 
 
